@@ -5,7 +5,7 @@
 </head>
 <body>
 <center>
-<h1>Registration Form</h1>
+<h1>Registration Form Page</h1>
 </br>
 <table cellpadding="1"align="center">
 <tr><td><b>Username:*</b></td>
@@ -26,7 +26,7 @@
 <tr><td valign="top"><b>Language known:*</b></td>
 <td><input type="checkbox"name:"lang"value="English">English<br>
 <input type="checkbox"name:"lang"value="Telugu">Telugu<br>
-<input type="checkbox"name:"lang"value="Hindi">Hindi<br>
+<input type="checkbox"name:"lang"value="tamil">tamil<br>
 </td>
 </tr>
 <tr><td valign="top"><b>Address:*</b></td>
@@ -42,3 +42,4 @@ fields are mandatory</font>
 </center>
 </body>
 </html>
+
